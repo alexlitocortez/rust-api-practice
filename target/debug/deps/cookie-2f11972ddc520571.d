@@ -1,0 +1,13 @@
+/Users/l/Rust-API/hello-rocket/target/debug/deps/cookie-2f11972ddc520571.rmeta: /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/lib.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/builder.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/parse.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/jar.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/delta.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/draft.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/expiration.rs
+
+/Users/l/Rust-API/hello-rocket/target/debug/deps/libcookie-2f11972ddc520571.rlib: /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/lib.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/builder.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/parse.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/jar.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/delta.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/draft.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/expiration.rs
+
+/Users/l/Rust-API/hello-rocket/target/debug/deps/cookie-2f11972ddc520571.d: /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/lib.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/builder.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/parse.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/jar.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/delta.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/draft.rs /Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/expiration.rs
+
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/lib.rs:
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/builder.rs:
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/parse.rs:
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/jar.rs:
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/delta.rs:
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/draft.rs:
+/Users/l/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.15.1/src/expiration.rs:
